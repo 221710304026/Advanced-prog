@@ -1,4 +1,5 @@
 AIandML
 hello 
 welcome to programing
+python is easy and simple.
 
